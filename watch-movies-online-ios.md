@@ -1,5 +1,5 @@
 ## Privacy Policy
-we built the watch movies online public D free movies  app as a Free app. This SERVICE is provided by us at no cost and is intended for use as is.
+we built "HD Movies 2020 & 123play Hub". This SERVICE is provided by us at no cost and is intended for use as is.
 
 This page is used to inform the app user regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
 
@@ -16,8 +16,6 @@ The app does use third party services that may collect information used to ident
 Link to privacy policy of third party service providers used by the app
 
 AdMob
-Firebase
-
 
 Cookies
 
@@ -53,6 +51,6 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact us. sonnguyenxcii@gmail.com
 
 
